@@ -1,6 +1,6 @@
 id="plugin.program.PluszoweMisie"
 version="2.0.7"
-zip="https://ogy.de/PluszoweMiszieWizard"
+zip="https://ogy.de/PluszakiWizard19"
 
 name="Pluszowe Misie"
 version="1.0.0"
