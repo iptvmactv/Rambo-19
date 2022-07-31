@@ -4,7 +4,7 @@ zip="https://ogy.de/PluszakiWizard19"
 
 name="Pluszowe Misie"
 version="1.0.0"
-url=".zip"
+url="https://magentacloud.de/s/MHHHWFDdWsyBMTt/download/Pluszaki.zip"
 minor="http://"
 gui="http://"
 kodi="19.4"
